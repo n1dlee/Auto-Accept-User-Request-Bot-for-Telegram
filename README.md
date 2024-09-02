@@ -20,7 +20,7 @@ Before running the bot, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nodik2006/Auto-Accept-User-Request-Bot-for-Telegram.git
+    git clone https://github.com/n1dlee/Auto-Accept-User-Request-Bot-for-Telegram.git
     cd Auto-Accept-User-Request-Bot-for-Telegram
     ```
 
